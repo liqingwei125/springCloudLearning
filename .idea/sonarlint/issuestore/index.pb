@@ -27,8 +27,6 @@ Mcloud-consumerzk-order80/src/main/java/com/lqw/springcloud/OrderZKMain80.java,
 xcloud-providerconsul-payment8006/src/main/java/com/lqw/springcloud/com/lqw/springcloud/controller/PaymentConsulMain.java,8\6\865d5fabf55b7388a389d944bcee183a20e08878
 P
  cloud-consumerzk-order80/pom.xml,b\d\bd079fa019b24e5030b8da596bfa6ea0f5e3f471
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ‡
 Wcloud-consumerzk-order80/src/main/java/com/lqw/springcloud/controller/ZKcontroller.java,a\8\a85265dcd677d17318cd6dcad601fb5bc99790f3
 X
@@ -59,8 +57,6 @@ Qcloud-provider-payment8002/src/main/java/com/lqw/springcloud/PaymentMain8002.ja
 ]cloud-consumer-order80/src/main/java/com/lqw/springcloud/config/ApplicationContextConfig.java,f\2\f25f17290091bbb84eb52dd1bd754d6d7b1392d8
 }
 Mcloud-eureka-server7002/src/main/java/com/lqw/springcloud/EurekaMain7002.java,a\c\ac5e129a1b1e591faf9191a7ae008bfffee8fc94
-}
-Mcloud-eureka-server7001/src/main/java/com/lqw/springcloud/EurekaMain7001.java,0\b\0b6081cf079ce981836ee0d59d33d07cc689cbb7
 y
 Icloud-consumer-order80/src/main/java/com/lqw/springcloud/OrderMain80.java,6\f\6fa53ac5855f737a04e8b640fd69d1626133e547
 Ž
@@ -79,3 +75,5 @@ _cloud-consumer-feign-order80/src/main/java/com/lqw/springcloud/service/PaymentF
 Qcolud-provider-payment0310/src/main/java/com/lqw/springcloud/PaymentMain0310.java,b\3\b315fc3875538e2eaaea3673dbc881639dae11ed
 Ž
 ^colud-provider-payment0310/src/main/java/com/lqw/springcloud/controller/PaymentController.java,c\d\cdaeba922cd71938978d3277a53f6cad0f250f1f
+}
+Mcloud-eureka-server7001/src/main/java/com/lqw/springcloud/EurekaMain7001.java,0\b\0b6081cf079ce981836ee0d59d33d07cc689cbb7
