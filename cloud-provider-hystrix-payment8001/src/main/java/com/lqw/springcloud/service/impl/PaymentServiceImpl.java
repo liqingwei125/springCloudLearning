@@ -30,4 +30,9 @@ public class PaymentServiceImpl implements PaymentService {
         }
         return "线程池： "+ Thread.currentThread().getName() + " paymentInfo_ok,id: "+ id +"\t"+ "O(∩_∩)O"+ " 耗时(秒): "+ timeNumber;
     }
+
+    @Override
+    public String paymentInfoTimeOutHandler(String id) {
+        return "线程池： "+ Thread.currentThread().getName() + " 8001系统繁忙或运行报错，请稍后再试,id: "+ id +"\t"+ "/(ㄒoㄒ)/~~";
+    }
 }

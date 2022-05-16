@@ -65,8 +65,6 @@ u
 Ecloud-consumer-order80/src/main/java/com/lqw/springcloud/lb/MyLB.java,c\a\ca5942bdaabe44438c1e829df752360081280cd6
 }
 Mcloud-consumer-order80/src/main/java/com/lqw/springcloud/lb/LoadBalanced.java,7\1\710e30fcc053413b42213a8a0be69837c24940f0
-ì
-ccloud-consumer-feign-order80/src/main/java/com/lqw/springcloud/controller/OrderFeignController.java,b\5\b59126c69c5693c1ec26a52b63e943932ad12dac
 Ü
 Vcloud-consumer-feign-order80/src/main/java/com/lqw/springcloud/config/FeignConfig.java,5\2\523a1cdec1e23a96d0279ccf4a5f7e6917256462
 è
@@ -75,5 +73,13 @@ _cloud-consumer-feign-order80/src/main/java/com/lqw/springcloud/service/PaymentF
 Qcolud-provider-payment0310/src/main/java/com/lqw/springcloud/PaymentMain0310.java,b\3\b315fc3875538e2eaaea3673dbc881639dae11ed
 é
 ^colud-provider-payment0310/src/main/java/com/lqw/springcloud/controller/PaymentController.java,c\d\cdaeba922cd71938978d3277a53f6cad0f250f1f
+Z
+*cloud-provider-hystrix-payment8001/pom.xml,2\1\218df82abb6b50cf4b69b19c34c61218eb53799e
+\
+,cloud-consumer-feign-hystrix-order80/pom.xml,e\b\ebb8c6d28b118fcb9094b49e8d733984c3d21f47
+ì
+ccloud-consumer-feign-order80/src/main/java/com/lqw/springcloud/controller/OrderFeignController.java,b\5\b59126c69c5693c1ec26a52b63e943932ad12dac
 }
 Mcloud-eureka-server7001/src/main/java/com/lqw/springcloud/EurekaMain7001.java,0\b\0b6081cf079ce981836ee0d59d33d07cc689cbb7
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
